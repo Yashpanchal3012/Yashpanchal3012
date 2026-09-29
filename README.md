@@ -1,8 +1,12 @@
 ## Yash Panchal
 
-Data analyst. I work mostly in Python and SQL, and I care about the part of an
-analysis that decides whether a result is real: sample size, multiple comparisons,
-and whether a finding holds up when you split the data a different way.
+Data analyst, working mostly in Python and SQL.
+
+The project below is one dataset taken properly: 590 sensors, 440 of them worth
+testing, and a correction for the fact that running 440 tests hands you about 22
+false positives whether or not anything is going on. The sensor with the largest
+effect in the data is not in my final recommendation, because it stops working in
+the last month.
 
 ### Featured project
 
