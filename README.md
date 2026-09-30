@@ -13,11 +13,7 @@
 
 ## Featured project
 
-<p align="center">
-  <a href="https://github.com/Yashpanchal3012/SECOM-Manufacturing-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpanchal3012&repo=SECOM-Manufacturing-Analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" alt="SECOM Manufacturing Analysis" />
-  </a>
-</p>
+### [SECOM Manufacturing Analysis](https://github.com/Yashpanchal3012/SECOM-Manufacturing-Analysis)
 
 **Which process sensors are associated with failed semiconductor production runs?**
 
